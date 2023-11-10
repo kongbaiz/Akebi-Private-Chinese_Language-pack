@@ -19,7 +19,7 @@
 感谢您的合作和理解。
 
 <details>
-<summary>点击展开以查看简体中文</summary>
+<summary>点击展开以预览简体中文</summary>
   
 ```json
 {
@@ -1965,12 +1965,12 @@
 ```
 </details>
 <details>
-<summary>点击展开以查看繁体中文</summary>
+<summary>点击展开以预览繁体中文</summary>
   
 ```json
   {
     "authors": "Akebi-TC(空白、熱情小夥伴們)",
-    "font": "Chinese_Traditional",
+    "font": "chinese_traditional",
     "name": "zh_TW/HK | TW/HK",
     "pseudo": "zh-TW/HK | TW/HK",
     "translates": {
